@@ -8,4 +8,4 @@ I studied math, currently I work as a backend developer with python, I use frame
 I have experience working as a data analyst and I have used time series focused on product sales.
 
 - 🔭 I’m currently working on Busmen
-- 🌱 I’m currently learning JavaScript, machine learning
+- 🌱 I’m currently learning JavaScript and machine learning
