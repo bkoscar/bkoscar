@@ -1,10 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hola a todos, soy Oscar 👋</h1>
 
-<!--
-**bkoscar/bkoscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I studied math, I'm currently working as a AI Software Engineer.
+![imagen](imagen4.jpeg)
 
-I have experience working as a Machine Learning Engineer.
+# Sobre mi
 
-- 🔭 I’m currently working on Intel
-  
+Estudié matemáticas y recientemente trabajo en Intel como Machine Learning Engineer.
+
+Tengo experiencia trabajando con Machine Learning y Deep Learning.
+
+¡Espero poder compartir y aprender mucho con la comunidad!
