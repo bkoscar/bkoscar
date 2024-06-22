@@ -4,6 +4,6 @@
 
 # About me
 
-1. I studied mathematics and recently work at Intel as a Machine Learning Engineer.
+1. I studied mathematics and recently work at Intel as a Machine Learning Engineer in Machine Learning.
 
 2. I have experience working with Machine Learning and Deep Learning.
