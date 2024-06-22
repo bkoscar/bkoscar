@@ -1,11 +1,9 @@
-<h1 align="center">Hola a todos, soy Oscar 👋</h1>
+<h1 align="center">Hello everyone, I'm Oscar 👋</h1>
 
-![imagen](imagen4.jpeg)
+![image](imagen4.jpeg)
 
-# Sobre mi
+# About me
 
-Estudié matemáticas y recientemente trabajo en Intel como Machine Learning Engineer.
+1. I studied mathematics and recently work at Intel as a Machine Learning Engineer.
 
-Tengo experiencia trabajando con Machine Learning y Deep Learning.
-
-¡Espero poder compartir y aprender mucho con la comunidad!
+2. I have experience working with Machine Learning and Deep Learning.
