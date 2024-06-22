@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello everyone, I'm Oscar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="imagen4.jpeg" width="1024" height="1024">
+  <img src="imagen4.jpeg" style="max-width:100%; height:auto;">
 </p>
 
 <br>
