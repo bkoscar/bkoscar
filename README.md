@@ -10,7 +10,7 @@
 
 <br>
 
-<!-- ```bash
+```bash
 oscar@bk0x:~$ whoami
 I studied mathematics and recently work at Intel as a Machine Learning Engineer.
 oscar@bk0x:~$ experience
@@ -18,9 +18,9 @@ I have experience working with Machine Learning and Deep Learning.
 Currently enhancing my skills in Deep Learning and AI applications.
 oscar@bk0x:~$ learning
 I’m currently studying at Hack The Box to improve my pentesting skills.
-``` -->
+```
 
-<img src="shell.gif" width="800px"/>
+
 
 <table width="100%">
   <tr>
