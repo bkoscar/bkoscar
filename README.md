@@ -19,10 +19,7 @@ Currently enhancing my skills in Deep Learning and AI applications.
 oscar@bk0x:~$ learning
 I’m currently studying at Hack The Box to improve my pentesting skills.
 ```
-
-
-
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td></td>
     <td width="auto" align="right">
@@ -32,6 +29,8 @@ I’m currently studying at Hack The Box to improve my pentesting skills.
     </td>
   </tr>
 </table>
+
+
 
 <br><br>
 
