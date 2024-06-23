@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello everyone, I'm Oscar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center" style="font-size: 48px;"><b>Hi, I'm Oscar</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="imagen4.jpeg" style="max-width:100%; height:auto;">
@@ -31,8 +31,12 @@ I’m currently studying at Hack The Box to improve my pentesting skills.
 
 - **Languages**:
     
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    <!-- ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
+    <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
+    <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
+
+
+    <!-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
 <br>   
     
@@ -51,7 +55,10 @@ I’m currently studying at Hack The Box to improve my pentesting skills.
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-    ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+    ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
 
 <br>
 
@@ -65,11 +72,27 @@ I’m currently studying at Hack The Box to improve my pentesting skills.
 <br>
 <br>
 
------
+<!-- -----
 <br>
 <br>
 
------
+----- -->
+
+## Contact
+
+
+<p align="left">
+  <a href="https://github.com/bkoscar">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/oscar-omar-hernández-martínez-b16939191">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50px"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile/1568868">
+    <img src="https://www.hackthebox.eu/badge/image/1568868" width="224px"/>
+  </a>
+</p>
+
 
 ## Highlighted Projects
 
@@ -92,3 +115,4 @@ I’m currently studying at Hack The Box to improve my pentesting skills.
 
 </a>
 </div>
+
