@@ -19,18 +19,6 @@ Currently enhancing my skills in Deep Learning and AI applications.
 oscar@bk0x:~$ learning
 I’m currently studying at Hack The Box to improve my pentesting skills.
 ```
-<table width="100%" align="center">
-  <tr>
-    <td></td>
-    <td width="auto" align="right">
-      <a href="https://github.com/bkoscar?tab=followers">
-        <img src="https://img.shields.io/github/followers/bkoscar?label=Followers&style=social" alt="GitHub Badge" style="transform: scale(1.5);"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 
 <br><br>
 
