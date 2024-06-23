@@ -10,7 +10,7 @@
 
 <br>
 
-```bash
+<!-- ```bash
 oscar@bk0x:~$ whoami
 I studied mathematics and recently work at Intel as a Machine Learning Engineer.
 oscar@bk0x:~$ experience
@@ -18,25 +18,33 @@ I have experience working with Machine Learning and Deep Learning.
 Currently enhancing my skills in Deep Learning and AI applications.
 oscar@bk0x:~$ learning
 I’m currently studying at Hack The Box to improve my pentesting skills.
-```
+``` -->
+
+<img src="shell.gif" width="800px"/>
+
+<table width="100%">
+  <tr>
+    <td></td>
+    <td width="auto" align="right">
+      <a href="https://github.com/bkoscar?tab=followers">
+        <img src="https://img.shields.io/github/followers/bkoscar?label=Followers&style=social" alt="GitHub Badge" style="transform: scale(1.5);"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> -->
 <br>
 
 <p align="center">
 
 - **Languages**:
     
-    <!-- ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
     <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
     <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
-
-
-    <!-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
 <br>   
     
@@ -72,11 +80,6 @@ I’m currently studying at Hack The Box to improve my pentesting skills.
 <br>
 <br>
 
-<!-- -----
-<br>
-<br>
-
------ -->
 
 ## Contact
 
