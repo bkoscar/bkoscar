@@ -92,8 +92,3 @@ I’m currently studying at Hack The Box to improve my pentesting skills.
 
 - **LeNet-5 Implementation in PyTorch**: Implementation of LeNet-5 in PyTorch for image classification using the classic LeNet-5 architecture with seven layers. Trained and evaluated on the MNIST dataset for handwritten digit recognition. [View Repository](https://github.com/bkoscar/LeNet-5-.git)
 
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
